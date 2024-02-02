@@ -1,0 +1,82 @@
+{
+    "easy":[
+        {
+            "pytanie":"Jaka jest stolica Francji?",
+            "a":"Paryż",
+            "b":"Warszawa",
+            "c":"Berlin",
+            "d":"Moskwa",
+            "prawidlowa_odpowiedz":"a"
+        },
+        {
+            "pytanie":"Jak nazywał sie przyjaaciel Harrego Pottera?",
+            "a":"Malfoy",
+            "b":"Voldemort",
+            "c":"Lupin",
+            "d":"Ron",
+            "prawidlowa_odpowiedz":"d"
+        },
+        {
+            "pytanie":"Kto jest prezydentem Polski?",
+            "a":"Zbigniew Stonoga",
+            "b":"Andrzej Duda",
+            "c":"Jarosław Kaczyński",
+            "d":"Donald Tusk",
+            "prawidlowa_odpowiedz":"b"
+        }
+],
+    "medium":[
+    {
+        "pytanie":"W którym roku pojawił sie python?",
+        "a":1996,
+        "b":1991,
+        "c":1995,
+        "d":2000,
+        "prawidlowa_odpowiedz":"b"
+
+    },
+    {
+        "pytanie":"Którą planetą od słońca jest ziemia?",
+        "a":1,
+        "b":2,
+        "c":3,
+        "d":4,
+        "prawidlowa_odpowiedz":"c"
+    },
+    {
+        "pytanie":"Który aktor jako pierwszy wcielił sie w role Jamesa Bonda?",
+        "a":"Sean Connery",
+        "b":"Roger Moore",
+        "c":"Timothy Dalton",
+        "d":"Pierce Brosnan",
+        "prawidlowa_odpowiedz":"a"
+    }
+],
+    "hard":[
+        {
+            "pytanie":"Kto napisał powieść 'Zbrodnia i kara'?",
+            "a":"Henryk Sienkiewicz",
+            "b":"Fiodor Dostojewski",
+            "c":"Bolesław Prus",
+            "d":"Adam Mickiewicz",
+            "prawidlowa_odpowiedz":"b"
+        },
+        {
+            "pytanie":"Które państwo ma największą populację na świecie?",
+            "a":"Rosja",
+            "b":"Polska",
+            "c":"Chiny",
+            "d":"Stany Zjednoczone",
+            "prawidlowa_odpowiedz":"c"
+        },
+        {
+            "pytanie":"Kto wymyslił żarówke?",
+            "a":"Thomas Edison",
+            "b":"Nikola Tesla",
+            "c":"Leonardo da Vinci",
+            "d":"Cai Lun",
+            "prawidlowa_odpowiedz":"a" 
+        }
+    ]
+}
+
